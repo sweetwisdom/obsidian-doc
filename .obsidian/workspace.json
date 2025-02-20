@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1f217e138ca9b038",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be213a423159528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4544eb88c54144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/03.threejs部分2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.threejs部分2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cb8834f138e89ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "717a929cad9ca917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478a0e3001d96168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d9d420516cf60642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "05ae979de3776168",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "da25f8a8c1ef2d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "450b32f4ef2e3ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22816eb7b4740b8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/03.threejs部分.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "03.threejs部分 的反向链接列表"
+            }
+          },
+          {
+            "id": "36e2e69dd2b728e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习/03.threejs部分.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "03.threejs部分 的出链列表"
+            }
+          },
+          {
+            "id": "d353321c0b424254",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a614eed88ec68640",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/03.threejs部分.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "03.threejs部分 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9a4544eb88c54144",
+  "lastOpenFiles": [
+    "未命名看板 1.md",
+    "未命名看板.md",
+    "未命名.canvas",
+    "2025-02-20.md",
+    "学习/03.threejs部分2.md",
+    "Excalidraw/Drawing 2025-02-20 10.40.00.excalidraw.md",
+    "Excalidraw",
+    "学习/未命名.md",
+    "欢迎.md",
+    "学习"
+  ]
+}
